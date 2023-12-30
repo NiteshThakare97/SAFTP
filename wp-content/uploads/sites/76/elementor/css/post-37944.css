@@ -1,0 +1,389 @@
+.elementor-kit-3 {
+    --e-global-color-primary: #313131;
+    --e-global-color-secondary: #5E5E5E;
+    --e-global-color-text: #5E5E5E;
+    --e-global-color-accent: #F7F7F7;
+    --e-global-color-910be82: #F8F8F8;
+    --e-global-color-faad955: #00000000;
+    --e-global-color-e00d4d9: #F7F7F7;
+    --e-global-color-6217f2b: #E6E6E6;
+    --e-global-color-14b004b: #313131;
+    --e-global-color-f54ec8f: #5E5E5E;
+    --e-global-color-fbcf6af: #FDA101;
+    --e-global-color-419042a: #FC3602;
+    --e-global-color-98cf106: #1B1B1B;
+    --e-global-color-14b2e17: #E4E4E4;
+    --e-global-color-b3f52a9: #FFFFFF42;
+    --e-global-color-2ed17c6: #FFFFFF47;
+    --e-global-color-8304df7: #00000042;
+    --e-global-color-e084b84: #FF8902;
+    --e-global-color-a35ce86: #D57100;
+    --e-global-color-3b566ee: #2E2E2E;
+    --e-global-typography-primary-font-family: "Inter Tight";
+    --e-global-typography-secondary-font-family: "Barlow";
+    --e-global-typography-text-font-family: "Barlow";
+    --e-global-typography-text-font-size: 1rem;
+    --e-global-typography-text-line-height: 1.5em;
+    --e-global-typography-accent-font-family: "Barlow";
+    --e-global-typography-accent-font-size: 1.1rem;
+    --e-global-typography-accent-font-weight: 500;
+    --e-global-typography-accent-line-height: 1em;
+    --e-global-typography-6d4dc5c-font-family: "Inter Tight";
+    --e-global-typography-6d4dc5c-font-size: 4.6rem;
+    --e-global-typography-6d4dc5c-font-weight: 600;
+    --e-global-typography-6d4dc5c-line-height: 1em;
+    --e-global-typography-a74a432-font-family: "Inter Tight";
+    --e-global-typography-a74a432-font-size: 2.8rem;
+    --e-global-typography-a74a432-font-weight: 600;
+    --e-global-typography-a74a432-line-height: 1.2em;
+    --e-global-typography-21b9fc0-font-family: "Inter Tight";
+    --e-global-typography-21b9fc0-font-size: 1.8rem;
+    --e-global-typography-21b9fc0-font-weight: 600;
+    --e-global-typography-21b9fc0-line-height: 1.5em;
+    --e-global-typography-22753db-font-family: "Inter Tight";
+    --e-global-typography-22753db-font-size: 1.5rem;
+    --e-global-typography-22753db-line-height: 1.4em;
+    --e-global-typography-fbece17-font-family: "Barlow";
+    --e-global-typography-fbece17-font-size: 1.3rem;
+    --e-global-typography-fbece17-font-weight: 600;
+    --e-global-typography-fbece17-line-height: 1.2em;
+    --e-global-typography-08967f9-font-family: "Barlow";
+    --e-global-typography-08967f9-font-size: 1.2rem;
+    --e-global-typography-08967f9-font-weight: 400;
+    --e-global-typography-08967f9-line-height: 1.5em;
+    --e-global-typography-44011d7-font-family: "Barlow";
+    --e-global-typography-44011d7-font-size: 3.2rem;
+    --e-global-typography-44011d7-font-weight: 700;
+    --e-global-typography-44011d7-line-height: 1.2em;
+    --e-global-typography-e84b546-font-family: "Barlow";
+    --e-global-typography-e84b546-font-size: 0.8rem;
+    --e-global-typography-e84b546-font-weight: 300;
+    --e-global-typography-e84b546-line-height: 1.2em;
+    --e-global-typography-e82d805-font-family: "Inter Tight";
+    --e-global-typography-e82d805-font-size: 1.8rem;
+    --e-global-typography-e82d805-font-weight: 400;
+    --e-global-typography-e82d805-line-height: 1.5em;
+    color: var(--e-global-color-f54ec8f);
+    font-family: var(--e-global-typography-text-font-family), Sans-serif;
+    font-size: var(--e-global-typography-text-font-size);
+    line-height: var(--e-global-typography-text-line-height);
+    background-color: var(--e-global-color-910be82);
+}
+
+.elementor-kit-3 a {
+    color: #dee1ea;
+}
+
+.elementor-kit-3 a:hover {
+    color: var(--e-global-color-e00d4d9);
+}
+
+.elementor-kit-3 h1 {
+    color: var(--e-global-color-14b004b);
+    font-family: var(--e-global-typography-6d4dc5c-font-family), Sans-serif;
+    font-size: var(--e-global-typography-6d4dc5c-font-size);
+    font-weight: var(--e-global-typography-6d4dc5c-font-weight);
+    line-height: var(--e-global-typography-6d4dc5c-line-height);
+    letter-spacing: var(--e-global-typography-6d4dc5c-letter-spacing);
+    word-spacing: var(--e-global-typography-6d4dc5c-word-spacing);
+}
+
+.elementor-kit-3 h2 {
+    color: var(--e-global-color-14b004b);
+    font-family: var(--e-global-typography-a74a432-font-family), Sans-serif;
+    font-size: var(--e-global-typography-a74a432-font-size);
+    font-weight: var(--e-global-typography-a74a432-font-weight);
+    line-height: var(--e-global-typography-a74a432-line-height);
+    letter-spacing: var(--e-global-typography-a74a432-letter-spacing);
+    word-spacing: var(--e-global-typography-a74a432-word-spacing);
+}
+
+.elementor-kit-3 h3 {
+    color: var(--e-global-color-14b004b);
+    font-family: var(--e-global-typography-21b9fc0-font-family), Sans-serif;
+    font-size: var(--e-global-typography-21b9fc0-font-size);
+    font-weight: var(--e-global-typography-21b9fc0-font-weight);
+    line-height: var(--e-global-typography-21b9fc0-line-height);
+    letter-spacing: var(--e-global-typography-21b9fc0-letter-spacing);
+    word-spacing: var(--e-global-typography-21b9fc0-word-spacing);
+}
+
+.elementor-kit-3 h4 {
+    color: var(--e-global-color-14b004b);
+    font-family: var(--e-global-typography-22753db-font-family), Sans-serif;
+    font-size: var(--e-global-typography-22753db-font-size);
+    line-height: var(--e-global-typography-22753db-line-height);
+    letter-spacing: var(--e-global-typography-22753db-letter-spacing);
+    word-spacing: var(--e-global-typography-22753db-word-spacing);
+}
+
+.elementor-kit-3 h5 {
+    color: var(--e-global-color-14b004b);
+    font-family: var(--e-global-typography-fbece17-font-family), Sans-serif;
+    font-size: var(--e-global-typography-fbece17-font-size);
+    font-weight: var(--e-global-typography-fbece17-font-weight);
+    line-height: var(--e-global-typography-fbece17-line-height);
+    letter-spacing: var(--e-global-typography-fbece17-letter-spacing);
+    word-spacing: var(--e-global-typography-fbece17-word-spacing);
+}
+
+.elementor-kit-3 h6 {
+    color: var(--e-global-color-14b004b);
+    font-family: var(--e-global-typography-08967f9-font-family), Sans-serif;
+    font-size: var(--e-global-typography-08967f9-font-size);
+    font-weight: var(--e-global-typography-08967f9-font-weight);
+    line-height: var(--e-global-typography-08967f9-line-height);
+    letter-spacing: var(--e-global-typography-08967f9-letter-spacing);
+    word-spacing: var(--e-global-typography-08967f9-word-spacing);
+}
+
+.elementor-kit-3 button,
+.elementor-kit-3 input[type="button"],
+.elementor-kit-3 input[type="submit"],
+.elementor-kit-3 .elementor-button {
+    font-family: var(--e-global-typography-accent-font-family), Sans-serif;
+    font-size: var(--e-global-typography-accent-font-size);
+    font-weight: var(--e-global-typography-accent-font-weight);
+    line-height: var(--e-global-typography-accent-line-height);
+    color: var(--e-global-color-e00d4d9);
+    background: #f25b1e;
+    border-radius: 0px 0px 0px 0px;
+    border-color: #f25b1e;
+}
+
+.elementor-kit-3 button:hover,
+.elementor-kit-3 button:focus,
+.elementor-kit-3 input[type="button"]:hover,
+.elementor-kit-3 input[type="button"]:focus,
+.elementor-kit-3 input[type="submit"]:hover,
+.elementor-kit-3 input[type="submit"]:focus,
+.elementor-kit-3 .elementor-button:hover,
+.elementor-kit-3 .elementor-button:focus {
+    color: var(--e-global-color-6217f2b);
+    background-color: var(--e-global-color-a35ce86);
+    border-radius: 0px 0px 0px 0px;
+}
+
+.elementor-kit-3 label {
+    color: var(--e-global-color-14b004b);
+    font-family: var(--e-global-typography-text-font-family), Sans-serif;
+    font-size: var(--e-global-typography-text-font-size);
+    line-height: var(--e-global-typography-text-line-height);
+}
+
+.elementor-kit-3 input:not([type="button"]):not([type="submit"]),
+.elementor-kit-3 textarea,
+.elementor-kit-3 .elementor-field-textual {
+    font-family: var(--e-global-typography-text-font-family), Sans-serif;
+    font-size: var(--e-global-typography-text-font-size);
+    line-height: var(--e-global-typography-text-line-height);
+    color: #000;
+    accent-color: var(--e-global-color-14b004b);
+    background-color: #fff;
+    border-radius: 0px 0px 0px 0px;
+}
+
+.elementor-section.elementor-section-boxed>.elementor-container {
+    max-width: 1400px;
+}
+
+.e-con {
+    --container-max-width: 1400px;
+}
+
+.elementor-widget:not(:last-child) {
+    margin-bottom: 20px;
+}
+
+.elementor-element {
+    --widgets-spacing: 20px;
+}
+
+h1.entry-title {
+    display: var(--page-title-display);
+}
+
+.elementor-kit-3 e-page-transition {
+    background-color: #FFBC7D;
+}
+
+.site-header {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+@media(max-width:1024px) {
+    .elementor-kit-3 {
+        --e-global-typography-text-font-size: 1rem;
+        --e-global-typography-accent-font-size: 1rem;
+        --e-global-typography-6d4dc5c-font-size: 3.6rem;
+        --e-global-typography-a74a432-font-size: 2.4rem;
+        --e-global-typography-21b9fc0-font-size: 1.8rem;
+        --e-global-typography-22753db-font-size: 1.5rem;
+        --e-global-typography-fbece17-font-size: 1.2rem;
+        --e-global-typography-08967f9-font-size: 1.1rem;
+        --e-global-typography-44011d7-font-size: 2.2rem;
+        --e-global-typography-e84b546-font-size: 0.8rem;
+        --e-global-typography-e82d805-font-size: 1.4rem;
+        font-size: var(--e-global-typography-text-font-size);
+        line-height: var(--e-global-typography-text-line-height);
+    }
+
+    .elementor-kit-3 h1 {
+        font-size: var(--e-global-typography-6d4dc5c-font-size);
+        line-height: var(--e-global-typography-6d4dc5c-line-height);
+        letter-spacing: var(--e-global-typography-6d4dc5c-letter-spacing);
+        word-spacing: var(--e-global-typography-6d4dc5c-word-spacing);
+    }
+
+    .elementor-kit-3 h2 {
+        font-size: var(--e-global-typography-a74a432-font-size);
+        line-height: var(--e-global-typography-a74a432-line-height);
+        letter-spacing: var(--e-global-typography-a74a432-letter-spacing);
+        word-spacing: var(--e-global-typography-a74a432-word-spacing);
+    }
+
+    .elementor-kit-3 h3 {
+        font-size: var(--e-global-typography-21b9fc0-font-size);
+        line-height: var(--e-global-typography-21b9fc0-line-height);
+        letter-spacing: var(--e-global-typography-21b9fc0-letter-spacing);
+        word-spacing: var(--e-global-typography-21b9fc0-word-spacing);
+    }
+
+    .elementor-kit-3 h4 {
+        font-size: var(--e-global-typography-22753db-font-size);
+        line-height: var(--e-global-typography-22753db-line-height);
+        letter-spacing: var(--e-global-typography-22753db-letter-spacing);
+        word-spacing: var(--e-global-typography-22753db-word-spacing);
+    }
+
+    .elementor-kit-3 h5 {
+        font-size: var(--e-global-typography-fbece17-font-size);
+        line-height: var(--e-global-typography-fbece17-line-height);
+        letter-spacing: var(--e-global-typography-fbece17-letter-spacing);
+        word-spacing: var(--e-global-typography-fbece17-word-spacing);
+    }
+
+    .elementor-kit-3 h6 {
+        font-size: var(--e-global-typography-08967f9-font-size);
+        line-height: var(--e-global-typography-08967f9-line-height);
+        letter-spacing: var(--e-global-typography-08967f9-letter-spacing);
+        word-spacing: var(--e-global-typography-08967f9-word-spacing);
+    }
+
+    .elementor-kit-3 button,
+    .elementor-kit-3 input[type="button"],
+    .elementor-kit-3 input[type="submit"],
+    .elementor-kit-3 .elementor-button {
+        font-size: var(--e-global-typography-accent-font-size);
+        line-height: var(--e-global-typography-accent-line-height);
+    }
+
+    .elementor-kit-3 label {
+        font-size: var(--e-global-typography-text-font-size);
+        line-height: var(--e-global-typography-text-line-height);
+    }
+
+    .elementor-kit-3 input:not([type="button"]):not([type="submit"]),
+    .elementor-kit-3 textarea,
+    .elementor-kit-3 .elementor-field-textual {
+        font-size: var(--e-global-typography-text-font-size);
+        line-height: var(--e-global-typography-text-line-height);
+    }
+
+    .elementor-section.elementor-section-boxed>.elementor-container {
+        max-width: 1024px;
+    }
+
+    .e-con {
+        --container-max-width: 1024px;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-kit-3 {
+        --e-global-typography-text-font-size: 1rem;
+        --e-global-typography-accent-font-size: 1rem;
+        --e-global-typography-6d4dc5c-font-size: 2.4rem;
+        --e-global-typography-a74a432-font-size: 1.8rem;
+        --e-global-typography-21b9fc0-font-size: 1.5rem;
+        --e-global-typography-22753db-font-size: 1.4rem;
+        --e-global-typography-fbece17-font-size: 1.2rem;
+        --e-global-typography-08967f9-font-size: 1.1rem;
+        --e-global-typography-44011d7-font-size: 2.4rem;
+        --e-global-typography-e84b546-font-size: 0.8rem;
+        --e-global-typography-e82d805-font-size: 1.4rem;
+        font-size: var(--e-global-typography-text-font-size);
+        line-height: var(--e-global-typography-text-line-height);
+    }
+
+    .elementor-kit-3 h1 {
+        font-size: var(--e-global-typography-6d4dc5c-font-size);
+        line-height: var(--e-global-typography-6d4dc5c-line-height);
+        letter-spacing: var(--e-global-typography-6d4dc5c-letter-spacing);
+        word-spacing: var(--e-global-typography-6d4dc5c-word-spacing);
+    }
+
+    .elementor-kit-3 h2 {
+        font-size: var(--e-global-typography-a74a432-font-size);
+        line-height: var(--e-global-typography-a74a432-line-height);
+        letter-spacing: var(--e-global-typography-a74a432-letter-spacing);
+        word-spacing: var(--e-global-typography-a74a432-word-spacing);
+    }
+
+    .elementor-kit-3 h3 {
+        font-size: var(--e-global-typography-21b9fc0-font-size);
+        line-height: var(--e-global-typography-21b9fc0-line-height);
+        letter-spacing: var(--e-global-typography-21b9fc0-letter-spacing);
+        word-spacing: var(--e-global-typography-21b9fc0-word-spacing);
+    }
+
+    .elementor-kit-3 h4 {
+        font-size: var(--e-global-typography-22753db-font-size);
+        line-height: var(--e-global-typography-22753db-line-height);
+        letter-spacing: var(--e-global-typography-22753db-letter-spacing);
+        word-spacing: var(--e-global-typography-22753db-word-spacing);
+    }
+
+    .elementor-kit-3 h5 {
+        font-size: var(--e-global-typography-fbece17-font-size);
+        line-height: var(--e-global-typography-fbece17-line-height);
+        letter-spacing: var(--e-global-typography-fbece17-letter-spacing);
+        word-spacing: var(--e-global-typography-fbece17-word-spacing);
+    }
+
+    .elementor-kit-3 h6 {
+        font-size: var(--e-global-typography-08967f9-font-size);
+        line-height: var(--e-global-typography-08967f9-line-height);
+        letter-spacing: var(--e-global-typography-08967f9-letter-spacing);
+        word-spacing: var(--e-global-typography-08967f9-word-spacing);
+    }
+
+    .elementor-kit-3 button,
+    .elementor-kit-3 input[type="button"],
+    .elementor-kit-3 input[type="submit"],
+    .elementor-kit-3 .elementor-button {
+        font-size: var(--e-global-typography-accent-font-size);
+        line-height: var(--e-global-typography-accent-line-height);
+    }
+
+    .elementor-kit-3 label {
+        font-size: var(--e-global-typography-text-font-size);
+        line-height: var(--e-global-typography-text-line-height);
+    }
+
+    .elementor-kit-3 input:not([type="button"]):not([type="submit"]),
+    .elementor-kit-3 textarea,
+    .elementor-kit-3 .elementor-field-textual {
+        font-size: var(--e-global-typography-text-font-size);
+        line-height: var(--e-global-typography-text-line-height);
+    }
+
+    .elementor-section.elementor-section-boxed>.elementor-container {
+        max-width: 767px;
+    }
+
+    .e-con {
+        --container-max-width: 767px;
+    }
+}
